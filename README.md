@@ -7,8 +7,6 @@ A lightweight, console-based URL shortener simulation built in Python. This proj
 ## Features
 
 * **Custom Code Generation:** Automatically generates a unique 5-character alphanumeric key for every long URL.
-* **Simulated Short Domain:** Formats links cleanly with a custom mock domain (`http://curto.fy/CODE`).
-* **Smart Input Handling:** Accepts either the short code or the full short link when opening a URL.
 * **Auto-Redirection:** Uses Python's built-in `webbrowser` module to automatically launch the original link in your default browser.
 * **Styled CLI Menu:** Features a clean, terminal-friendly user interface with input validation.
 
