@@ -26,3 +26,9 @@ A lightweight, console-based URL shortener simulation built in Python. This proj
 2. Clone this repository or download the Python script:
    ```bash
    git clone https://github.com/Arthur137116/code-based-URL-shortener
+
+---
+
+## Disclaimer
+
+* This repository was developed strictly for learning and educational purposes. It serves to practice core Python concepts, including key-value dictionary mapping, string manipulation, input sanitization, and basic browser automation via built-in modules.
